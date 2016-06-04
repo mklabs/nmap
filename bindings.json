@@ -1,4 +1,4 @@
-module.exports = {
+{
 	"s"	: "Focus the search bar",
 	"g + n": "Go to your notifications",
 	"g + c" : "Go to your repository",
@@ -21,7 +21,7 @@ module.exports = {
 	"a": "Filter by or edit assignee",
 	"r": "Quote the selected text in your reply",
 	"o + enter": "Open issue",
-	"c": "Open the list of commits"
+	"c": "Open the list of commits",
 	"t": "Open the list of changed files",
 	"j": "Move selection down in the list",
 	"k": "Move selection up in the list",
