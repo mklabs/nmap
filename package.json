@@ -1,0 +1,26 @@
+{
+  "name": "nmap",
+  "version": "0.0.0",
+  "description": "vim like binding for the browser, something like that.",
+  "license": "MIT",
+  "repository": "mklabs/nmap",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "keymaster": "^1.6.2"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.14.0"
+  }
+}
